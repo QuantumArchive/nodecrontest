@@ -1,0 +1,23 @@
+{
+  "name": "nodecrontest",
+  "version": "1.0.0",
+  "description": "testing out cron jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumArchive/nodecrontest.git"
+  },
+  "author": "Chris B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuantumArchive/nodecrontest/issues"
+  },
+  "homepage": "https://github.com/QuantumArchive/nodecrontest#readme",
+  "devDependencies": {
+    "node-cron": "^1.1.2",
+    "superagent": "^2.3.0"
+  }
+}
